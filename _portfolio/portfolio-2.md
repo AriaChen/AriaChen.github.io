@@ -4,7 +4,7 @@ excerpt: "Developed a computer vision based ocean wave analysis system.<br/><img
 collection: portfolio
 ---
 
-During my tenure at GeoSystem Research Corporation, I dived into new territories, undertaking a project that bridge the computer science technology with oceanographic research. Here are the key accomplishments and tools practiced:
+During my tenure from 2022 to 2023 at GeoSystem Research Corporation, I dived into new territories, undertaking a project that bridge the computer science technology with oceanographic research. Here are the key accomplishments and tools practiced:
 
 - **Languages & Libraries**: Leveraged `C++`, `C#`, and the `OpenCV` library, crafting a stereo vision system.
   

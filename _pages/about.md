@@ -14,9 +14,8 @@ I'm proud to have earned bachelor's degrees in Computer Science from both the [C
 
 I worked at [GeoSystem Research Corporation](https://www.geosr.com/) in South Korea, where I combined computer vision technology with ocean science research. This role showcased my ability to dive into new areas and handle both hardware and software tasks. During this time, I also developed proficiency in the Korean language.
 
-I am skilled in Python, C, C++, C#, and familiar with frameworks like Pytorch, TensorFlow, and OpenCV. I'm eager to take on further challenges in AI, especially NLP, and software development.
+I am skilled in Python, C++, C, and familiar with frameworks and libraries like Pytorch, TensorFlow, and OpenCV. I'm eager to take on further challenges in AI, especially NLP, and software development.
 
 With fluency in Chinese, English, and Korean, I'm well-suited for multicultural environments.
 
-If you're as excited about technology and its potential as I am, or if you're interested in collaborating, please feel free to reach out!
-
+I firmly believe in the potential of technology to improve lives and society. If you share this enthusiasm, or if you're interested in collaborating, please feel free to reach out!
