@@ -9,8 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+Here is a link to my CV in [pdf](https://ariachen.github.io/files/XinyuanChen-CV.pdf).
+
 Education
 ======
+
 * M.Sc. in Advanced Computing, Imperial College London, 2020
 * B.Sc. (Hons) in Computer Science, The University of Manchester, 2019
 * B.E in Information Security, Communication University of China, 2019
@@ -20,7 +23,7 @@ Work experience
 * 2022~2023: Researcher
   * GeoSystem Research Corporation
   * Duties included: 
-    * Led a solo assignment to develop an image-based ocean wave system with stereo vision, covering both software and hardware.
+    * Led a solo assignment to develop an image-based ocean wave analysis system.
     * Collaborated on an AI-driven ocean wave analysis project.
 * Summer 2018: Lab Assistant
   * The University of Manchester
