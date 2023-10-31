@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Here is a link to my CV in [pdf](https://ariachen.github.io/files/XinyuanChen-CV.pdf).
+
 
 Education
 ======
 
-* M.Sc. in Advanced Computing, Imperial College London, 2020
-* B.Sc. (Hons) in Computer Science, The University of Manchester, 2019
-* B.E in Information Security, Communication University of China, 2019
+* M.Sc. in Advanced Computing, Imperial College London, 2019~2020
+* B.Sc. (Hons) in Computer Science, The University of Manchester, 2017~2019
+* B.E in Information Security, Communication University of China, 2015~2019
 
 Work experience
 ======
